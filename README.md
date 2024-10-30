@@ -148,9 +148,7 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 - [TryHackMe | Google Dorking](https://tryhackme.com/room/googledorking)
 
 - [TryHackMe | WebOSINT](https://tryhackme.com/room/webosint)
-
-- [TryHackMe | Sakura Room](https://tryhackme.com/room/sakura)
-
+  
 - [TryHackMe | Red Team Recon](https://tryhackme.com/room/redteamrecon)
 
 - [TryHackMe | Searchlight - IMINT](https://tryhackme.com/room/searchlightosint)
